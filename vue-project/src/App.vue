@@ -1,6 +1,12 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import AccessibillityGraph from './components/AccessibillityGraph.vue'
+import AutomaticScan from './components/AutomaticScan.vue'
+import ErrorResult from './components/ErrorResult.vue'
+import TypeGraph from './components/TypeGraph.vue'
+import Title from './components/Title.vue'
+
 </script>
 
 <template>
